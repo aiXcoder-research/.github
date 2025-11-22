@@ -5,7 +5,7 @@ This README will appear on https://github.com/aiXcoder-research
 
 <div align="center">
 
-<img src="https://aixcoder.com/static/logo.svg" alt="aiXcoder Logo" width="140"/>
+<img src="https://i-blog.csdnimg.cn/blog_migrate/ffb5598a95585c1171fc6c8e544bc9c4.png" alt="aiXcoder Logo" width="1400"/>
 
 # aiXcoder Research 🤖
 **AI Coding Assistant • Machine Learning • Software Intelligence**
